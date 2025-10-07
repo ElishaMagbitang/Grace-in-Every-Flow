@@ -77,7 +77,7 @@ Soft, feminine, and elegant — blending minimalism with sophistication.
 ---
 ## 🧡 Credits
 
-**Developed by:** Elisha  
+**Developed by:** Elisha Jhoyce Magbitang
 **Design Concept:** Modern Feminine Minimalism  
 **Purpose:** Website design for Women’s Clothing Brand — _Elisha: Grace in Every Flow_
 
