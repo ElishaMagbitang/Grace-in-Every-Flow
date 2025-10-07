@@ -89,4 +89,5 @@ Soft, feminine, and elegant — blending minimalism with sophistication.
 
 ---
 
+![Grace in Every Flow](graceineveryflow.jpg)
 
