@@ -15,8 +15,6 @@ It enables users to:
 - Add items to their cart
 - Complete simple checkout transactions
 
-This MVP aims to balance functionality with beauty while maintaining a soft and feminine brand tone.
-
 ---
 
 ## 🧵 Core Features
