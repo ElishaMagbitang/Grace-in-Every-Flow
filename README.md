@@ -2,7 +2,7 @@
 
 ### A Women’s Clothing Store Website UI/UX Design
 
-**Elisha** is a minimalist and elegant women’s clothing brand based in **Manila, Philippines**, offering timeless fashion pieces such as **ruffled tops** and **flowy dresses**. 
+**Elisha** is a minimalist and elegant women’s clothing brand, offering timeless fashion pieces such as **ruffled tops** and **flowy dresses**. 
 
 ---
 
@@ -54,9 +54,6 @@ This MVP aims to balance functionality with beauty while maintaining a soft and 
 
 ### 6. Contact Page
 - Contact form (Name, Email, Message)  
-- **Store Address:** 123 Fashion Lane, Makati City, Manila, Philippines  
-- **Phone Number:** +63 912 345 6789  
-- **Email:** hello@elisha.com  
 - Links to social media pages (Instagram, Facebook, Pinterest)
 
 ---
