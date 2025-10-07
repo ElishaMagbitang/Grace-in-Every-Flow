@@ -43,7 +43,6 @@ It enables users to:
   - Email  
   - Address  
   - Phone Number  
-- Placeholder for payment integrations (Cash on Delivery, GCash, Credit Card)
 
 ### 5. About Page
 - Brand story highlighting **Elisha’s** roots in Manila  
