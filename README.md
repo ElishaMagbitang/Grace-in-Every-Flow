@@ -8,7 +8,7 @@
 
 ## 🌸 Project Overview
 
-The **Elisha MVP website** focuses on a seamless and aesthetic browsing experience.  
+The **Elisha website** focuses on a seamless and aesthetic browsing experience.  
 It enables users to:
 - Explore featured collections
 - View product details
