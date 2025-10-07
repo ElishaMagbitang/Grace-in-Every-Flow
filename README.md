@@ -79,7 +79,7 @@ Soft, feminine, and elegant — blending minimalism with sophistication.
 
 **Developed by:** Elisha  
 **Design Concept:** Modern Feminine Minimalism  
-**Purpose:** MVP Website for Women’s Clothing Brand — _Elisha: Grace in Every Flow_
+**Purpose:** Website design for Women’s Clothing Brand — _Elisha: Grace in Every Flow_
 
 ---
 
